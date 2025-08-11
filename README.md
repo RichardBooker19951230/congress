@@ -19,7 +19,7 @@ None of these require API tokens but [getDistricts](#get-a-list-of-all-us-congre
 the [Github Contents API](https://developer.github.com/v3/repos/contents/), which [rate-limits unauthenticated requests](https://developer.github.com/v3/rate_limit/) to 60 per hour from a given IP.
 
 ## Requirements
-Requires NodeJS version 4 or greater. 
+Requires NodeJS version 8 or greater. 
 
 ## Installation
 ```
